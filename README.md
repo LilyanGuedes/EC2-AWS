@@ -24,7 +24,6 @@ Documentação prática sobre **gerenciamento de instâncias EC2** na AWS, desen
 ├── 📄 DOCUMENTACAO.md
 ├── 📄 COMANDOS-UTEIS.md
 ├── 📄 TROUBLESHOOTING.md
-└── 📁 images/
 ```
 
 ## 🛠️ Tecnologias
