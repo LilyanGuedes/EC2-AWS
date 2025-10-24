@@ -19,7 +19,7 @@ Documentação prática sobre **gerenciamento de instâncias EC2** na AWS, desen
 
 ## 📚 Estrutura do Repositório
 ```
-📁 desafio-ec2-dio/
+📁 EC2-AWS/
 ├── 📄 README.md
 ├── 📄 DOCUMENTACAO.md
 ├── 📄 COMANDOS-UTEIS.md
